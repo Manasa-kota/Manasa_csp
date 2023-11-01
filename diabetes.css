@@ -1,0 +1,44 @@
+.background{
+    background-image: url("dia.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    padding-left: 20px;
+    position: relative;
+    padding: 30px;
+}
+.docbox{
+    height: 530px;
+    width: 700px;
+    margin: 13px;
+    background-color:rgba(233, 241, 241, 0.653);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 0px;
+}
+.para{
+    padding: 15px;
+    font-family: sans-serif;
+}
+.med{
+    height: 530px;
+    width: 300px;
+    margin: 13px;
+    background-color:rgba(233, 241, 241, 0.653);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 0px;
+}
+.para1{
+    padding: 15px;
+    font-family: sans-serif;
+    font-style: solid;
+}
+.page{
+    margin: 5px;
+    padding: 5px;
+}

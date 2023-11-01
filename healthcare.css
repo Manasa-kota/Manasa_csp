@@ -1,0 +1,120 @@
+.background{
+    background-image: url("care.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.box{
+    height: 50px;
+    width: 100vw;
+    background-color: #dc3545;
+}
+.options{
+    color: white;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.head{
+    text-align: center;
+    color: white;
+    padding-left:50px;
+    font-family: Serif;
+
+}
+.box1{
+    height: 120px;
+    width: 100vw;
+    background-color:#dc3545;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.image{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+}
+.line{
+    background-color:red;
+    height: 3px;
+}
+.para{
+    font-family: 'Courier New', Courier, monospace;
+    
+    padding-left: 30px;
+    font-weight: 900;
+    font-size: 30px; 
+    color: white;   
+    margin: 100px;
+}
+.button{
+    background-color: white;
+    color:red;
+    height: 50px;
+    width: 150px;
+    border-radius: 0%;
+    text-align: center;
+    margin: 30px;
+    font-weight: 900;
+    border-width: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.box2{
+    height: 100px;
+    width: 990px;
+    padding: 40px;
+    padding-left: 20p;
+    background-color:#dc3545;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+}
+/*.background1{
+    background-image: url("h3.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.heading1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family:sans-serif;
+    padding: 30px;
+    color: blueviolet;
+}
+.line1{
+    text-decoration-line: underline;
+}
+.aboutbox{
+    height: 520px;
+    width: 1500px;
+    background-color: #dc3545;
+    padding: 20px;
+    margin: 20px;
+    margin-top:30px;
+    color: aqua;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.para1{
+    font-size: 20px;
+    font-family: serif;
+}
+.image1{
+    height: 350px;
+    width: 550px;
+    padding: 20px;
+}*/

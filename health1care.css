@@ -1,0 +1,64 @@
+.background1{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("h4.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+.heading1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family:sans-serif;
+    padding: 30px;
+    color:#dc3545;
+}
+.line1{
+    font-size: 19px;
+    text-decoration-line: underline;
+}
+.aboutbox{
+    height: 520px;
+    width: 900px;
+    background-color: #c58a90de;
+    padding: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: aqua;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.para1{
+    font-size: 15px;
+    font-family: serif;
+}
+.image1{
+    height: 220px;
+    width: 520px;
+    padding: 20px;
+}
+.page{
+    color: white;
+}
+.host{
+    padding-left: 50px;
+}
+.button{
+    background-color: blue;
+    height: 50px;
+    width: 150px;
+    border-radius: 0%;
+    text-align: center;
+    margin: 30px;
+    font-weight: 900;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

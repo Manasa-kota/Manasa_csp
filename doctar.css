@@ -1,0 +1,44 @@
+.background{
+    height: 100vh;
+    width: 100%;
+    background-image:url("h1.jpg");
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+}
+.heading{
+    padding: 20px;
+    color: black;
+}
+span{
+    color: brown;
+}
+.docbox{
+    height: 150px;
+    width: 900;
+    margin: 20px;
+    background-color:rgba(203, 178, 182, 0.833);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.heading1{
+    padding: 10px;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.asram{
+    height: 120px;
+    width: 180px;
+    padding: 10px;
+}
+.vijya{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.page{
+    margin: 13px;
+    padding: 10px;
+}
